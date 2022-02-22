@@ -1,8 +1,10 @@
 package ro.java.ctrln;
 
 public class Main {
-//Jar-Java Arhive
+     //Jar-Java Arhive
+    //JAVA_HOME
     public static void main(String[] args) {
+  //Aici am mai adaugat eu un comentariu pentru Branch_Create_By_Andrei
     System.out.println("Invat limbajul Java si despre masina virtuala Java!");
     }
 }
